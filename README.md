@@ -1,4 +1,4 @@
-# Webscrape_project2
+# Webscrape_project_2
 
 The client needs all the images in png format for the following website:
 'http://www.pngmart.com/'
